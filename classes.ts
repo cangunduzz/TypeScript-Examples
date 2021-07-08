@@ -26,7 +26,7 @@ class Kisi {
     this._isim = ad;
   }
   kaydet() {
-    console.log("Kişi Kaydedildi");
+    console.log("Birey Kaydedildi");
   }
 }
 
